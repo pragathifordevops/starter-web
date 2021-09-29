@@ -13,3 +13,5 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+
+This is the file which contain some piece of code 
